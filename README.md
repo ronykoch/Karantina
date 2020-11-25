@@ -1,6 +1,6 @@
 # Karantina
 
-Karantina is a Hebrew type family designed by Rony Koch.
+Karantina is a Hebrew and Latin typeface family, designed during lockdown days of COVID-19 world pandemic.
+The font was designed by Rony Koch, a designer based in Israel.
 
-Hebrew type family designed by Rony Koch.
-The family contains 3 styles, Light, Regular and Bold.
+Karantina is a three weight family that includes - Light, Regular and Bold.
