@@ -260,11 +260,10 @@ sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 tag = ordn;
 },
 {
+automatic = 1;
 code = "lookupflag IgnoreMarks;
 sub alef-hb shin-hb by alef_shin;
-sub A E by AE;
-sub a e by ae;
-sub O E by O;";
+";
 tag = dlig;
 }
 );
