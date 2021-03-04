@@ -293,7 +293,7 @@ id = "A98666DC-4638-42B6-8332-BBF4982DF0EF";
 metricValues = (
 {
 over = 16;
-pos = 800;
+pos = 700;
 },
 {
 over = 5;
@@ -404,7 +404,7 @@ id = "83682BA5-5A7B-4081-8B26-D550B6F33EEB";
 metricValues = (
 {
 over = 12;
-pos = 800;
+pos = 700;
 },
 {
 over = 5;
@@ -462,7 +462,7 @@ id = "E6A807D2-02F5-45B7-9AC8-B5230FFEC057";
 metricValues = (
 {
 over = 16;
-pos = 800;
+pos = 700;
 },
 {
 over = 5;
