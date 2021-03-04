@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bet-hb" format="2">
+  <advance width="283"/>
+  <unicode hex="05D1"/>
+  <note>
+bethebrew
+</note>
+  <guideline x="34" y="439" angle="90"/>
+  <anchor x="147" y="0" name="bottom"/>
+  <anchor x="73" y="300" name="center"/>
+  <anchor x="183" y="600" name="top"/>
+  <anchor x="33" y="600" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="148" y="600" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="243" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="600" type="line"/>
+      <point x="30" y="600" type="line"/>
+      <point x="10" y="507" type="line"/>
+      <point x="243" y="507" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="93" type="line"/>
+      <point x="10" y="93" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="283" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

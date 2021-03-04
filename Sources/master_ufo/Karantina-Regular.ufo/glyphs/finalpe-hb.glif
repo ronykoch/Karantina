@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalpe-hb" format="2">
+  <advance width="315"/>
+  <unicode hex="05E3"/>
+  <note>
+finalpehebrew
+</note>
+  <anchor x="151" y="0" name="bottom"/>
+  <anchor x="6" y="0" name="bottomleft"/>
+  <anchor x="106" y="140" name="center"/>
+  <anchor x="164" y="600" name="top"/>
+  <anchor x="48" y="600" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="48" y="299" type="line"/>
+      <point x="48" y="206" type="line"/>
+      <point x="164" y="206" type="line"/>
+      <point x="172" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="600" type="line"/>
+      <point x="200" y="-80" type="line"/>
+      <point x="295" y="-80" type="line"/>
+      <point x="295" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="48" y="600" type="line"/>
+      <point x="48" y="206" type="line"/>
+      <point x="143" y="206" type="line"/>
+      <point x="143" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="600" type="line"/>
+      <point x="40" y="600" type="line"/>
+      <point x="20" y="507" type="line"/>
+      <point x="295" y="507" type="line"/>
+    </contour>
+  </outline>
+</glyph>

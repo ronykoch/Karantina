@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gershayimhb" format="2">
+  <advance width="140"/>
+  <unicode hex="05F4"/>
+  <outline>
+    <contour>
+      <point x="32" y="657" type="line"/>
+      <point x="0" y="504" type="line"/>
+      <point x="40" y="504" type="line"/>
+      <point x="72" y="657" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="657" type="line"/>
+      <point x="68" y="504" type="line"/>
+      <point x="108" y="504" type="line"/>
+      <point x="140" y="657" type="line"/>
+    </contour>
+  </outline>
+</glyph>

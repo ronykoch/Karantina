@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="egrave" format="2">
+  <advance width="261"/>
+  <unicode hex="00E8"/>
+  <anchor x="131" y="0" name="bottom"/>
+  <anchor x="235" y="10" name="ogonek"/>
+  <anchor x="131" y="500" name="top"/>
+  <outline>
+    <component base="grave" xOffset="60" yOffset="-190"/>
+    <component base="e"/>
+  </outline>
+</glyph>

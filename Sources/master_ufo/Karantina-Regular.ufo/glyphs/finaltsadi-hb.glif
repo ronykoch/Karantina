@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finaltsadi-hb" format="2">
+  <advance width="296"/>
+  <unicode hex="05E5"/>
+  <note>
+finaltsadihebrew
+</note>
+  <anchor x="145" y="0" name="bottom"/>
+  <anchor x="1" y="0" name="bottomleft"/>
+  <anchor x="145" y="275" name="center"/>
+  <anchor x="158" y="600" name="top"/>
+  <anchor x="43" y="600" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="43" y="600" type="line"/>
+      <point x="43" y="-80" type="line"/>
+      <point x="138" y="-80" type="line"/>
+      <point x="138" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="213" type="line"/>
+      <point x="182" y="213" type="line" smooth="yes"/>
+      <point x="238" y="213"/>
+      <point x="276" y="250"/>
+      <point x="276" y="306" type="curve" smooth="yes"/>
+      <point x="276" y="600" type="line"/>
+      <point x="186" y="600" type="line"/>
+      <point x="186" y="316" type="line" smooth="yes"/>
+      <point x="186" y="312"/>
+      <point x="185" y="311"/>
+      <point x="181" y="311" type="curve" smooth="yes"/>
+      <point x="43" y="311" type="line"/>
+    </contour>
+    <contour>
+      <point x="276" y="600" type="line"/>
+      <point x="178" y="600" type="line"/>
+      <point x="158" y="507" type="line"/>
+      <point x="276" y="507" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="600" type="line"/>
+      <point x="35" y="600" type="line"/>
+      <point x="15" y="507" type="line"/>
+      <point x="138" y="507" type="line"/>
+    </contour>
+  </outline>
+</glyph>

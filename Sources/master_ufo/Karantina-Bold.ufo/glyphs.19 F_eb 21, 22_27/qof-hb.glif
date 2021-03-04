@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qof-hb" format="2">
+  <advance width="355"/>
+  <unicode hex="05E7"/>
+  <note>
+qofhebrew
+</note>
+  <anchor x="198" y="0" name="bottom"/>
+  <anchor x="178" y="300" name="center"/>
+  <anchor x="178" y="500" name="top"/>
+  <anchor x="30" y="500" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="20" y="424" type="line"/>
+      <point x="20" y="-100" type="line"/>
+      <point x="156" y="-100" type="line"/>
+      <point x="156" y="424" type="line"/>
+    </contour>
+    <contour>
+      <point x="199" y="600" type="line"/>
+      <point x="199" y="230" type="line"/>
+      <point x="117" y="0" type="line"/>
+      <point x="253" y="0" type="line"/>
+      <point x="335" y="230" type="line"/>
+      <point x="335" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="600" type="line"/>
+      <point x="20" y="467" type="line"/>
+      <point x="335" y="467" type="line"/>
+      <point x="335" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="resh-hb" format="2">
+  <advance width="274"/>
+  <unicode hex="05E8"/>
+  <note>
+reshhebrew
+</note>
+  <anchor x="182" y="0" name="bottom"/>
+  <anchor x="84" y="300" name="center"/>
+  <anchor x="161" y="600" name="top"/>
+  <anchor x="9" y="600" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="161" y="600" type="line"/>
+      <point x="161" y="0" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="254" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="254" y="600" type="line"/>
+      <point x="40" y="600" type="line"/>
+      <point x="20" y="507" type="line"/>
+      <point x="254" y="507" type="line"/>
+    </contour>
+  </outline>
+</glyph>

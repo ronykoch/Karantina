@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalet-hb" format="2">
+  <advance width="320"/>
+  <unicode hex="05D3"/>
+  <note>
+dalethebrew
+</note>
+  <anchor x="206" y="0" name="bottom"/>
+  <anchor x="90" y="300" name="center"/>
+  <anchor x="317" y="600" name="top"/>
+  <anchor x="56" y="600" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="156" y="0" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="251" y="530" type="line"/>
+      <point x="251" y="530" type="line"/>
+      <point x="194" y="530"/>
+      <point x="156" y="493"/>
+      <point x="156" y="437" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="20" y="507" type="line"/>
+      <point x="300" y="507" type="line"/>
+      <point x="300" y="600" type="line"/>
+      <point x="40" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

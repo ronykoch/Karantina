@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="he-hb" format="2">
+  <advance width="283"/>
+  <unicode hex="05D4"/>
+  <note>
+hehebrew
+</note>
+  <anchor x="145" y="0" name="bottom"/>
+  <anchor x="142" y="300" name="center"/>
+  <anchor x="159" y="600" name="top"/>
+  <anchor x="104" y="600" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="168" y="0" type="line"/>
+      <point x="263" y="0" type="line"/>
+      <point x="263" y="600" type="line"/>
+      <point x="168" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="454" type="line"/>
+      <point x="20" y="454" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="507" type="line"/>
+      <point x="263" y="507" type="line"/>
+      <point x="263" y="600" type="line"/>
+      <point x="40" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalnun-hb" format="2">
+  <advance width="217"/>
+  <unicode hex="05DF"/>
+  <note>
+finalnunhebrew
+</note>
+  <outline>
+    <contour>
+      <point x="61" y="-100" type="line"/>
+      <point x="197" y="-100" type="line"/>
+      <point x="197" y="600" type="line"/>
+      <point x="61" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="467" type="line"/>
+      <point x="197" y="467" type="line"/>
+      <point x="197" y="600" type="line"/>
+      <point x="42" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shinshindot-hb" format="2">
+  <advance width="441"/>
+  <unicode hex="FB2A"/>
+  <anchor x="228" y="0" name="bottom"/>
+  <anchor x="152" y="300" name="center"/>
+  <anchor x="421" y="600" name="shin"/>
+  <anchor x="65" y="600" name="sin"/>
+  <anchor x="231" y="600" name="top"/>
+  <anchor x="51" y="600" name="topleft"/>
+  <anchor x="411" y="500" name="topright"/>
+  <outline>
+    <component base="shin-hb"/>
+    <component base="shindot-hb" xOffset="358"/>
+  </outline>
+</glyph>

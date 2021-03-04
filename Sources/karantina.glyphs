@@ -202,6 +202,16 @@ customParameters = (
 name = fsType;
 value = (
 );
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+300 = 100;
+400 = 140;
+700 = 180;
+};
+};
 }
 );
 date = "2020-04-25 12:46:54 +0000";

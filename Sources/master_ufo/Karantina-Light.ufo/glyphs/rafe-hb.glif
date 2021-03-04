@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rafe-hb" format="2">
+  <unicode hex="05BF"/>
+  <anchor x="76" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="20" y="670" type="line"/>
+      <point x="137" y="670" type="line"/>
+      <point x="137" y="700" type="line"/>
+      <point x="20" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>157</integer>
+    </dict>
+  </lib>
+</glyph>
