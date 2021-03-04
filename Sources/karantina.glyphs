@@ -188,7 +188,7 @@ Tr Ts Tt Tu Tv Twist Tx Type Tz Tap Ua Uber Uc Udi Ue Uf Ugg Uh Ui Uj Uk Ul Umbr
 AaAbAcAdAeAfAgAhAiAjAkAlAmAnAoApAqArAsAtAuAvAwAxAyAzAaBaBbBcBdBeBfBgBhBiBjBkBlBmBnBoBpBqBrBsBtBuBvBwBxByBzBaCaCbCcCdCeCfCgChCiCjCkClCmCnCoCpCqCrCsCtCuCvCwCxCyCzCaDaDbDcDdDeDfDgDhDiDjDkDlDmDnDoDpDqDrDsDtDuDvDwDxDyDzDaEaEbEcEdEeEfEgEhEiEjEkElEmEnEoEpEqErEsEtEuEvEwExEyEzEaFaFbFcFdFeFfFgFhFiFjFkFlFmFnFoFpFqFrFsFtFuFvFwFxFyFzFaGaGbGcGdGeGfGgGhGiGjGkGlGmGnGoGpGqGrGsGtGuGvGwGxGyGzGaHaHbHcHdHeHfHgHhHiHjHkHlHmHnHoHpHqHrHsHtHuHvHwHxHyHzHaIaIbIcIdIeIfIgIhIiIjIkIlImInIoIpIqIrIsItIuIvIwIxIyIzIaJaJbJcJdJeJfJgJhJiJjJkJlJmJnJoJpJqJrJsJtJuJvJwJxJyJzJaKaKbKcKdKeKfKgKhKiKjKkKlKmKnKoKpKqKrKsKtKuKvKwKxKyKzKaLaLbLcLdLeLfLgLhLiLjLkLlLmLnLoLpLqLrLsLtLuLvLwLxLyLzLaMaMbMcMdMeMfMgMhMiMjMkMlMmMnMoMpMqMrMsMtMuMvMwMxMyMzMaNaNbNcNdNeNfNgNhNiNjNkNlNmNnNoNpNqNrNsNtNuNvNwNxNyNzNaOaObOcOdOeOfOgOhOiOjOkOlOmOnOoOpOqOrOsOtOuOvOwOxOyOzOaPaPbPcPdPePfPgPhPiPjPkPlPmPnPoPpPqPrPsPtPuPvPwPxPyPzPaQaQbQcQdQeQfQgQhQiQjQkQlQmQnQoQpQqQrQsQtQuQvQwQxQyQzQaRaRbRcRdReRfRgRhRiRjRkRlRmRnRoRpRqRrRsRtRuRvRwRxRyRzRaSaSbScSdSeSfSgShSiSjSkSlSmSnSoSpSqSrSsStSuSvSwSxSySzSaTaTbTcTdTeTfTgThTiTjTkTlTmTnToTpTqTrTsTtTuTvTwTxTyTzTaUaUbUcUdUeUfUgUhUiUjUkUlUmUnUoUpUqUrUsUtUuUvUwUxUyUzUaVaVbVcVdVeVfVgVhViVjVkVlVmVnVoVpVqVrVsVtVuVvVwVxVyVzVaWaWbWcWdWeWfWgWhWiWjWkWlWmWnWoWpWqWrWsWtWuWvWwWxWyWzWaXaXbXcXdXeXfXgXhXiXjXkXlXmXnXoXpXqXrXsXtXuXvXwXxXyXzXaYaYbYcYdYeYfYgYhYiYjYkYlYmYnYoYpYqYrYsYtYuYvYwYxYyYzYaZaZbZcZdZeZfZgZhZiZjZkZlZmZnZoZpZqZrZsZtZuZvZwZxZyZzZa,
 "
 mmmmAammmDammm
-HHHTATHOhoHHVAVHHHLTHHH"
+HHHTATHOhoHHVAVHHHLVTHHH"
 );
 axes = (
 {
@@ -314,11 +314,6 @@ pos = -200;
 }
 );
 name = Light;
-stemValues = (
-0,
-0
-);
-visible = 1;
 },
 {
 axesValues = (
@@ -332,16 +327,6 @@ value = -153;
 {
 name = underlineThickness;
 value = 50;
-},
-{
-name = TTFStems;
-value = (
-{
-horizontal = 1;
-name = "Regular Stem";
-width = 162;
-}
-);
 },
 {
 name = typoDescender;
@@ -441,11 +426,6 @@ over = -12;
 }
 );
 name = Regular;
-stemValues = (
-149,
-93
-);
-visible = 1;
 },
 {
 axesValues = (
@@ -503,11 +483,6 @@ pos = -200;
 }
 );
 name = Bold;
-stemValues = (
-0,
-0
-);
-visible = 1;
 }
 );
 glyphs = (
@@ -515,7 +490,7 @@ glyphs = (
 glyphname = A;
 kernLeft = A;
 kernRight = A;
-lastChange = "2021-03-02 20:29:08 +0000";
+lastChange = "2021-03-04 12:40:35 +0000";
 layers = (
 {
 anchors = (
@@ -42767,15 +42742,6 @@ value = "Rony Koch";
 settings = {
 disablesNiceNames = 1;
 };
-stems = (
-{
-horizontal = 1;
-name = hStem0;
-},
-{
-name = vStem0;
-}
-);
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
