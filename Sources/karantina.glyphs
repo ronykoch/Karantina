@@ -212,6 +212,10 @@ wght = {
 700 = 180;
 };
 };
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2020-04-25 12:46:54 +0000";
@@ -275,7 +279,7 @@ axesValues = (
 customParameters = (
 {
 name = winAscent;
-value = 1000;
+value = 859;
 },
 {
 name = winDescent;
@@ -287,15 +291,31 @@ value = 50;
 },
 {
 name = typoAscender;
-value = 1000;
+value = 859;
 },
 {
 name = hheaAscender;
-value = 1000;
+value = 859;
 },
 {
 name = weightClass;
 value = 300;
+},
+{
+name = hheaDescender;
+value = -153;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoDescender;
+value = -153;
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 iconName = Light;
@@ -340,15 +360,15 @@ value = 50;
 },
 {
 name = typoDescender;
-value = -200;
+value = -153;
 },
 {
 name = hheaDescender;
-value = -200;
+value = -153;
 },
 {
 name = winAscent;
-value = 1000;
+value = 859;
 },
 {
 name = winDescent;
@@ -356,7 +376,7 @@ value = 228;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = hheaLineGap;
@@ -364,11 +384,11 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 1000;
+value = 859;
 },
 {
 name = hheaAscender;
-value = 1000;
+value = 859;
 },
 {
 name = "Alignment Zones";
@@ -444,7 +464,7 @@ axesValues = (
 customParameters = (
 {
 name = winAscent;
-value = 1000;
+value = 859;
 },
 {
 name = winDescent;
@@ -456,15 +476,31 @@ value = 50;
 },
 {
 name = typoAscender;
-value = 1000;
+value = 859;
 },
 {
 name = hheaAscender;
-value = 1000;
+value = 859;
 },
 {
 name = weightClass;
 value = 700;
+},
+{
+name = hheaDescender;
+value = -153;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoDescender;
+value = -153;
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 iconName = Bold;
