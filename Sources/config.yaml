@@ -1,0 +1,8 @@
+sources:
+  - karantina.glyphs
+buildVariable: false
+buildStatic: true
+buildWebfont: false
+ttDir: "../fonts/TTF"
+otDir: "../fonts/OTF"
+vfDir: "../fonts/VF"
